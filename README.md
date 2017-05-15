@@ -1,2 +1,4 @@
 # hello-world
-My firs repository
+My firs reposite
+
+had a semantic error so had to change it
